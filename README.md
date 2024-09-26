@@ -1,7 +1,5 @@
 # Exploratory Data Analysis: Most Streamed Spotify Songs 2023
 
-![Spotify Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_with_text.svg/512px-Spotify_logo_with_text.svg.png)
-
 ![Project Status](https://img.shields.io/badge/status-active-brightgreen)
 ![License](https://img.shields.io/badge/license-GNU%20GPL%20v3.0-blue)
 
