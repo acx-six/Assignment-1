@@ -13,7 +13,8 @@
 - [5. Genre and Music Characteristics](#5--genre-and-music-characteristics)
 - [6. Platform Popularity](#6--platform-popularity)
 - [7. Advanced Analysis](#7--advanced-analysis)
-- [Key Observations](#key-observations)
+- [Key Observation: Keys n Modes](#key-observations)
+- [Key Observation: Artice Dominance n Musical Styles](#key-observations)
 
 ## Introduction
 This project performs an exploratory data analysis (EDA) on the dataset of the Most Streamed Spotify Songs in 2023. The aim is to analyze, visualize, and interpret data to extract meaningful insights. Dataset link: [Kaggle Dataset](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023).
@@ -1034,7 +1035,7 @@ plt.show()
     
 
 
-**Key Observations:**
+# **Key Observations:**
 
 **Artist Dominance:**  
 The Weeknd, Taylor Swift, and Ed Sheeran consistently appear at the top of the list, suggesting they have a broad appeal and are frequently included in playlists.  
