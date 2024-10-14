@@ -5,7 +5,7 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Dataset Preparation](#Dataset Preparation)
+- [Dataset Preparation](#Dataset)
 - [1. Overview of Dataset](#usage)
 - [2. Basic Descriptive Statistics](#visualizations)
 - [3. Top Performers](#contributors)
