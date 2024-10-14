@@ -1042,3 +1042,7 @@ The Weeknd, Taylor Swift, and Ed Sheeran consistently appear at the top of the l
 
 **Musical Style:**  
 Although we cannot directly compare genres since it is not included in the dataset, we can consider the musical styles of these artists to identify potential patterns. For instance, The Weeknd and Ed Sheeran are known for their pop and R&B influences, while Taylor Swift incorporates elements of pop, country, and folk.
+
+
+**Note:**
+Right now, the images are all showing as PNGs, but I’ll sort that out soon :)
