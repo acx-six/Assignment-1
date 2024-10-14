@@ -1046,3 +1046,4 @@ Although we cannot directly compare genres since it is not included in the datas
 
 **Note:**
 Right now, the images are all showing as PNGs, but I’ll sort that out soon :)
+To see all the graphs and results, you can open my Jupyter notebook file that I’ve also uploaded [here](https://github.com/acx-six/Assignment-1/blob/main/Untitled-1.ipynb).
