@@ -19,7 +19,10 @@
 ## Introduction
 This project performs an exploratory data analysis (EDA) on the dataset of the Most Streamed Spotify Songs in 2023. The aim is to analyze, visualize, and interpret data to extract meaningful insights. Dataset link: [Kaggle Dataset](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023).
 
+**Note:**
+Right now, the images are all showing as PNGs, but I’ll sort that out soon :)
 
+To see all the graphs and results, you can open my Jupyter notebook file that I’ve also uploaded [here](https://github.com/acx-six/Assignment-1/blob/main/Untitled-1.ipynb).
 
 # **Most Streamed Spotify Songs 2023**
 
@@ -1043,8 +1046,3 @@ The Weeknd, Taylor Swift, and Ed Sheeran consistently appear at the top of the l
 **Musical Style:**  
 Although we cannot directly compare genres since it is not included in the dataset, we can consider the musical styles of these artists to identify potential patterns. For instance, The Weeknd and Ed Sheeran are known for their pop and R&B influences, while Taylor Swift incorporates elements of pop, country, and folk.
 
-
-**Note:**
-Right now, the images are all showing as PNGs, but I’ll sort that out soon :)
-
-To see all the graphs and results, you can open my Jupyter notebook file that I’ve also uploaded [here](https://github.com/acx-six/Assignment-1/blob/main/Untitled-1.ipynb).
