@@ -19,7 +19,7 @@
 ## Introduction
 This project performs an exploratory data analysis (EDA) on the dataset of the Most Streamed Spotify Songs in 2023. The aim is to analyze, visualize, and interpret data to extract meaningful insights. Dataset link: [Kaggle Dataset](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023).
 
-You can also open my Jupyter notebook file that I’ve also uploaded [here](https://github.com/acx-six/Assignment-1/blob/main/Untitled-1.ipynb).
+You can also open my Jupyter notebook file that I’ve uploaded [here](https://github.com/acx-six/Assignment-1/blob/main/Untitled-1.ipynb).
 
 # **Most Streamed Spotify Songs 2023**
 
