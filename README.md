@@ -5,15 +5,15 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Dataset Preparation](#Dataset)
-- [1. Overview of Dataset](#usage)
-- [2. Basic Descriptive Statistics](#visualizations)
-- [3. Top Performers](#contributors)
-- [4. Temporal Trends](#license)
-- [5. Genre and Music Characteristics](#license)
-- [6. Platform Popularity](#license)
-- [7. Advanced Analysis](#license)
-- [Key Observations](#license)
+- [Dataset Preparation](#dataset-preparation)
+- [1. Overview of Dataset](#1-overview-of-dataset)
+- [2. Basic Descriptive Statistics](#2-basic-descriptive-statistics)
+- [3. Top Performers](#3-top-performers)
+- [4. Temporal Trends](#4-temporal-trends)
+- [5. Genre and Music Characteristics](#5-genre-and-music-characteristics)
+- [6. Platform Popularity](#6-platform-popularity)
+- [7. Advanced Analysis](#7-advanced-analysis)
+- [Key Observations](#key-observations)
 
 ## Introduction
 This project performs an exploratory data analysis (EDA) on the dataset of the Most Streamed Spotify Songs in 2023. The aim is to analyze, visualize, and interpret data to extract meaningful insights. Dataset link: [Kaggle Dataset](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023).
