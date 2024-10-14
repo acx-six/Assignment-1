@@ -14,7 +14,7 @@
 - [6. Platform Popularity](#6--platform-popularity)
 - [7. Advanced Analysis](#7--advanced-analysis)
 - [Key Observation: Keys n Modes](#key-observations)
-- [Key Observation: Artice Dominance n Musical Styles](#key-observations)
+- [Key Observation: Artist Dominance n Musical Style](#key-observations-1)
 
 ## Introduction
 This project performs an exploratory data analysis (EDA) on the dataset of the Most Streamed Spotify Songs in 2023. The aim is to analyze, visualize, and interpret data to extract meaningful insights. Dataset link: [Kaggle Dataset](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023).
