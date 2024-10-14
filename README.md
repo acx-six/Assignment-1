@@ -5,14 +5,14 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Dataset Preparation](#dataset-preparation)
+- [Dataset Preparation](#most-streamed-spotify-songs-2023)
 - [1. Overview of Dataset](#1-overview-of-dataset)
 - [2. Basic Descriptive Statistics](#2-basic-descriptive-statistics)
 - [3. Top Performers](#3-top-performers)
 - [4. Temporal Trends](#4-temporal-trends)
-- [5. Genre and Music Characteristics](#5-genre-and-music-characteristics)
-- [6. Platform Popularity](#6-platform-popularity)
-- [7. Advanced Analysis](#7-advanced-analysis)
+- [5. Genre and Music Characteristics](#5--genre-and-music-characteristics)
+- [6. Platform Popularity](#6--platform-popularity)
+- [7. Advanced Analysis](#7--advanced-analysis)
 - [Key Observations](#key-observations)
 
 ## Introduction
@@ -984,7 +984,7 @@ plt.show()
     
 
 
-**Key Observations:**  
+# **Key Observations:**  
 
 **Minor vs. Major:**  
 In general, there seems to be a trend where major keys tend to have slightly higher average streams compared to minor keys. This might suggest that major keys are perceived as more upbeat or accessible to a wider audience. However, there are exceptions to this trend, as some minor keys (e.g., E minor) have higher average streams than certain major keys.
