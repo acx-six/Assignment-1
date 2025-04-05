@@ -39,7 +39,7 @@ warnings.simplefilter(action='ignore', category=pd.errors.SettingWithCopyWarning
 
 
 
-# Load the dataset (ensure the path is correct if it's local)
+# Load the dataset
 spotify_data = pd.read_csv('C:/Users/ACDC/Desktop/archive/spotify-2023.csv', encoding='latin-1')
 
 
